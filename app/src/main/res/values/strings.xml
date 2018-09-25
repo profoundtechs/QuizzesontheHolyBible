@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizzes on the Holy Bible</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Quizzes on the Holy Bible</string>
+
+    <!--Descriptions-->
+    <string name="preface">The app contains questions and answers from the holy Bible prepared by the
+        117th pope of Alexandria, Pope Shenouda III. Questions are categorized in 23 groups. Questions
+        can be assessed by selecting from the navigation drawer or by clicking the next or previous buttons.
+        Happy reading!</string>
+    <string name="sample_question_text">This is where the question is displayed. The answer will also
+    be displayed here when the user clicks answer button.</string>
+    <string name="preface_body">Quizzing is a kind of spiritual recreation. it activates the memory
+        and is a type of intellectual competition. It is useful in occupying time in Sunday schools,
+        on picnics, in clubs, and on numerous other occasions. \n \nQuizzes on the Holy Bible has many
+        advantages : \n \nThey provide information from the Bible; they link different pieces of information
+        to each other, they draw the attention to certain fields of knowledge, and they are an incentive
+        to the further acquisition of knowledge. \n \nThis book includes 366 Quizzes on the Holy Bible divided
+        into various subjects to facilitate its use. The second part of this book consists of the answers
+        to these questions. \n \nWe hope, by the grace of God, to follow this book with others, either other
+        Quizzes on the Bible, or on Church history and the lives of the Saints, or other kinds of religious
+        information. \n \nSo farewell till we meet in the other parts if by the grace of God it is His will
+        and if He grants us life. \n \n Pope Shenouda III.</string>
+    <string name="start_page">Start Page</string>
+</resources>
